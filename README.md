@@ -17,16 +17,13 @@ Market Basket Analysis helps businesses understand customer purchasing behavior 
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset: Online Retail
 
-- The dataset contains transaction records where each row represents a customer's purchase history.
-- Format:
-TransactionID | Items Purchased
-1             | Milk, Bread, Butter
-2             | Bread, Butter
-3             | Milk, Eggs
-
----
+- **Dataset Name**: `Online Retail.csv`
+- **Source**: UCI Machine Learning Repository  
+- **Description**: Contains transactional data from a UK-based online retail store.
+- **Format**:
+InvoiceNo | StockCode | Description | Quantity | InvoiceDate | UnitPrice | CustomerID | Country
 
 ## 🚀 Implementation Details
 
